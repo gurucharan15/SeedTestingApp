@@ -1,0 +1,4 @@
+0 damaged
+1 damaged
+2 fresh
+3 fresh
